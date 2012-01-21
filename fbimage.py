@@ -1,7 +1,7 @@
 import binascii
 import Image
 
-img = Image.open('img/logo.jpg')
+img = Image.open('') # put file name here
 pixdata = img.load()
 bitlist = []
 bitstring = ""
