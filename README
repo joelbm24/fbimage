@@ -1,2 +1,3 @@
 This is a simple script that takes an image and makes it writable to "/dev/fb0".
-This should work on all linux distros
+This should work on all linux distros.
+This works best on tty1 - tty6, to switch just hold down ctrl+alt and press f1
