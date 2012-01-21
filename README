@@ -1,2 +1,2 @@
-This is a simple script that takes an image and writes it to "/dev/fb0".
+This is a simple script that takes an image and makes it writable it to "/dev/fb0".
 This should work on all linux distros
